@@ -3,8 +3,12 @@
 
 Movie name search API From IMDB 
 
+## Apk 
+
+https://github.com/devanshuchauhan1999/BVCAssignment/blob/main/apk/app-debug.apk
+
 ## Screenshots
 
-<img src="images/image1.jpeg" width="350">
+https://github.com/devanshuchauhan1999/BVCAssignment/blob/main/images/image1.jpg
 
-<img src="images/image2.jpeg" width="350">
+https://github.com/devanshuchauhan1999/BVCAssignment/blob/main/images/image2.jpg
